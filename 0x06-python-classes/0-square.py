@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-class Square:
-    def __init__(self, side):
-        self.side = side
+"""Define a class Square."""
 
-    def area(self):
-        return self.side * self.side
+
+class Square:
+    """Represent a square."""
+    pass
